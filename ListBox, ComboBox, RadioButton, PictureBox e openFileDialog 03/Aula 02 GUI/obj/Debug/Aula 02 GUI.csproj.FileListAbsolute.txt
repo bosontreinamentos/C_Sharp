@@ -1,0 +1,37 @@
+c:\users\fabio.reis\documents\visual studio 2013\Projects\Aula 02 GUI\Aula 02 GUI\bin\Debug\Aula 02 GUI.exe.config
+c:\users\fabio.reis\documents\visual studio 2013\Projects\Aula 02 GUI\Aula 02 GUI\bin\Debug\Aula 02 GUI.exe
+c:\users\fabio.reis\documents\visual studio 2013\Projects\Aula 02 GUI\Aula 02 GUI\bin\Debug\Aula 02 GUI.pdb
+c:\users\fabio.reis\documents\visual studio 2013\Projects\Aula 02 GUI\Aula 02 GUI\obj\Debug\Aula 02 GUI.csprojResolveAssemblyReference.cache
+c:\users\fabio.reis\documents\visual studio 2013\Projects\Aula 02 GUI\Aula 02 GUI\obj\Debug\Aula_02_GUI.Form1.resources
+c:\users\fabio.reis\documents\visual studio 2013\Projects\Aula 02 GUI\Aula 02 GUI\obj\Debug\Aula_02_GUI.Properties.Resources.resources
+c:\users\fabio.reis\documents\visual studio 2013\Projects\Aula 02 GUI\Aula 02 GUI\obj\Debug\Aula 02 GUI.csproj.GenerateResource.Cache
+c:\users\fabio.reis\documents\visual studio 2013\Projects\Aula 02 GUI\Aula 02 GUI\obj\Debug\Aula 02 GUI.exe
+c:\users\fabio.reis\documents\visual studio 2013\Projects\Aula 02 GUI\Aula 02 GUI\obj\Debug\Aula 02 GUI.pdb
+C:\Users\fabio.reis\Documents\Visual Studio 2013\Projects\ListBox, ComboBox, RadioButton e PictureBox\Aula 02 GUI\Aula 02 GUI\bin\Debug\Aula 02 GUI.exe.config
+C:\Users\fabio.reis\Documents\Visual Studio 2013\Projects\ListBox, ComboBox, RadioButton e PictureBox\Aula 02 GUI\Aula 02 GUI\obj\Debug\Aula 02 GUI.exe
+C:\Users\fabio.reis\Documents\Visual Studio 2013\Projects\ListBox, ComboBox, RadioButton e PictureBox\Aula 02 GUI\Aula 02 GUI\obj\Debug\Aula 02 GUI.pdb
+C:\Users\fabio.reis\Documents\Visual Studio 2013\Projects\ListBox, ComboBox, RadioButton e PictureBox\Aula 02 GUI\Aula 02 GUI\bin\Debug\Aula 02 GUI.exe
+C:\Users\fabio.reis\Documents\Visual Studio 2013\Projects\ListBox, ComboBox, RadioButton e PictureBox\Aula 02 GUI\Aula 02 GUI\bin\Debug\Aula 02 GUI.pdb
+C:\Users\fabio.reis\Documents\Visual Studio 2013\Projects\ListBox, ComboBox, RadioButton e PictureBox\Aula 02 GUI\Aula 02 GUI\obj\Debug\Aula 02 GUI.csprojResolveAssemblyReference.cache
+C:\Users\fabio.reis\Documents\Visual Studio 2013\Projects\ListBox, ComboBox, RadioButton e PictureBox\Aula 02 GUI\Aula 02 GUI\obj\Debug\Aula_02_GUI.Form1.resources
+C:\Users\fabio.reis\Documents\Visual Studio 2013\Projects\ListBox, ComboBox, RadioButton e PictureBox\Aula 02 GUI\Aula 02 GUI\obj\Debug\Aula_02_GUI.Properties.Resources.resources
+C:\Users\fabio.reis\Documents\Visual Studio 2013\Projects\ListBox, ComboBox, RadioButton e PictureBox\Aula 02 GUI\Aula 02 GUI\obj\Debug\Aula 02 GUI.csproj.GenerateResource.Cache
+C:\Users\Fábio dos Reis\source\repos\ListBox, ComboBox, RadioButton e PictureBox\Aula 02 GUI\Aula 02 GUI\bin\Debug\Aula 02 GUI.exe.config
+C:\Users\Fábio dos Reis\source\repos\ListBox, ComboBox, RadioButton e PictureBox\Aula 02 GUI\Aula 02 GUI\bin\Debug\Aula 02 GUI.exe
+C:\Users\Fábio dos Reis\source\repos\ListBox, ComboBox, RadioButton e PictureBox\Aula 02 GUI\Aula 02 GUI\bin\Debug\Aula 02 GUI.pdb
+C:\Users\Fábio dos Reis\source\repos\ListBox, ComboBox, RadioButton e PictureBox\Aula 02 GUI\Aula 02 GUI\obj\Debug\Aula 02 GUI.csprojAssemblyReference.cache
+C:\Users\Fábio dos Reis\source\repos\ListBox, ComboBox, RadioButton e PictureBox\Aula 02 GUI\Aula 02 GUI\obj\Debug\Aula_02_GUI.Form1.resources
+C:\Users\Fábio dos Reis\source\repos\ListBox, ComboBox, RadioButton e PictureBox\Aula 02 GUI\Aula 02 GUI\obj\Debug\Aula_02_GUI.Properties.Resources.resources
+C:\Users\Fábio dos Reis\source\repos\ListBox, ComboBox, RadioButton e PictureBox\Aula 02 GUI\Aula 02 GUI\obj\Debug\Aula 02 GUI.csproj.GenerateResource.cache
+C:\Users\Fábio dos Reis\source\repos\ListBox, ComboBox, RadioButton e PictureBox\Aula 02 GUI\Aula 02 GUI\obj\Debug\Aula 02 GUI.csproj.CoreCompileInputs.cache
+C:\Users\Fábio dos Reis\source\repos\ListBox, ComboBox, RadioButton e PictureBox\Aula 02 GUI\Aula 02 GUI\obj\Debug\Aula 02 GUI.exe
+C:\Users\Fábio dos Reis\source\repos\ListBox, ComboBox, RadioButton e PictureBox\Aula 02 GUI\Aula 02 GUI\obj\Debug\Aula 02 GUI.pdb
+C:\Users\fabio.reis2\source\repos\ListBox, ComboBox, RadioButton, PictureBox e openFileDialog 03\Aula 02 GUI\bin\Debug\Aula 02 GUI.exe.config
+C:\Users\fabio.reis2\source\repos\ListBox, ComboBox, RadioButton, PictureBox e openFileDialog 03\Aula 02 GUI\bin\Debug\Aula 02 GUI.exe
+C:\Users\fabio.reis2\source\repos\ListBox, ComboBox, RadioButton, PictureBox e openFileDialog 03\Aula 02 GUI\bin\Debug\Aula 02 GUI.pdb
+C:\Users\fabio.reis2\source\repos\ListBox, ComboBox, RadioButton, PictureBox e openFileDialog 03\Aula 02 GUI\obj\Debug\Aula_02_GUI.Form1.resources
+C:\Users\fabio.reis2\source\repos\ListBox, ComboBox, RadioButton, PictureBox e openFileDialog 03\Aula 02 GUI\obj\Debug\Aula_02_GUI.Properties.Resources.resources
+C:\Users\fabio.reis2\source\repos\ListBox, ComboBox, RadioButton, PictureBox e openFileDialog 03\Aula 02 GUI\obj\Debug\Aula 02 GUI.csproj.GenerateResource.cache
+C:\Users\fabio.reis2\source\repos\ListBox, ComboBox, RadioButton, PictureBox e openFileDialog 03\Aula 02 GUI\obj\Debug\Aula 02 GUI.csproj.CoreCompileInputs.cache
+C:\Users\fabio.reis2\source\repos\ListBox, ComboBox, RadioButton, PictureBox e openFileDialog 03\Aula 02 GUI\obj\Debug\Aula 02 GUI.exe
+C:\Users\fabio.reis2\source\repos\ListBox, ComboBox, RadioButton, PictureBox e openFileDialog 03\Aula 02 GUI\obj\Debug\Aula 02 GUI.pdb
